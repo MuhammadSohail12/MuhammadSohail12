@@ -3,9 +3,9 @@ Hi, I’m Muhammad Sohail  a Senior Flutter Developer with 4+ years of experienc
 
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Muhammad Sohail) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Muhammad Sohail) 
-[![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Muhammad Sohail khan) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Muhammad Sohail) <br><br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Muhammad Sohail) <br><br>
+[![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Muhammad Sohail khan) <br><br>
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muhammad.sohail.23135@gmail.com) 
 
 # 💻 Tech Stack:
@@ -25,7 +25,6 @@ Hi, I’m Muhammad Sohail  a Senior Flutter Developer with 4+ years of experienc
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=MuhammadSohail12&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-[![](https://komarev.com/ghpvc/?username=MuhammadSohail12&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 
